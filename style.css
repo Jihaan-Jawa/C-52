@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    background-color: black;
+    font-family:Monotype Corsiva;
+    color:white;
+}
+a {
+    border:solid;
+    font-family:Jokerman;
+    color:yellow;
+}
+ 
+img,h1 {
+    border:solid;
+   
+}
+
+
+
+a:hover {
+    color:sandybrown;
+}
